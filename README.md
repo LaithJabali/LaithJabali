@@ -94,7 +94,7 @@
     	<a href="https://github.com/LaithJabali/Resturant-databaseProj">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaithJabali&repo=Resturant-databaseProj&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-    <a href=" https://github.com/LaithJabali/smart_home">
+    <a href="https://github.com/LaithJabali/smart_home">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaithJabali&repo=smart_home&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     
