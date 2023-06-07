@@ -88,11 +88,8 @@
     <a href="https://github.com/LaithJabali/Workers-WebProj">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaithJabali&repo=Workers-WebProj&theme=tokyonight" alt="GitHub Stats" />
     	</a>
-	<a href="https://github.com/LaithJabali/Workers-WebProj">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaithJabali&repo=Workers-WebProj&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/LaithJabali/Resturant-databaseProj">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaithJabali&repo=Resturant-databaseProj&theme=tokyonight" alt="GitHub Stats" />
+    	<a href="https://github.com/LaithJabali/social-influencer">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaithJabali&repo=social-influencer&theme=tokyonight" alt="GitHub Stats" />
     	</a>
     <a href="https://github.com/LaithJabali/smart_home">
       		<img src="https://github-readme-stats.vercel.app/api/pin/?username=LaithJabali&repo=smart_home&theme=tokyonight" alt="GitHub Stats" />
