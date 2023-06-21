@@ -5,17 +5,19 @@
   ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>   About me
 
   
-- 🔭 I’m currently training at **Gaza Sky Geeks**
+- 🔭 I recently completed my training at Gaza Sky Geeks, where I honed my skills in ReactJS.
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱  I have a strong foundation in ReactJS and continue to expand my knowledge and expertise in this powerful JavaScript library.
 
-- 👨‍💻 All of my projects are available at [https://github.com/LaithJabali](https://github.com/LaithJabali)
+- 💼 I am a graduate of Computer Engineering and currently seeking job opportunities as a Front-End developer.
 
-- 📫 How to reach me **laithkingjabali@gamil.com**
+- 👨‍💻 All of my projects are available at [LaithJabali](https://github.com/LaithJabali).
 
-- 📄 Know about my experiences [https://github.com/LaithJabali/portfolio](https://github.com/LaithJabali/portfolio)
+- 📫 How to reach me **laithkingjabali@gamil.com**.
 
-- ⚡ Fun fact **My only wish is Barcelona win the Champions League again**
+- 📄 Find out about my experiences in my [Portfolio](https://laithjabali.github.io/portfolio/) and [CV](https://drive.google.com/file/d/1I4Hhee-lCzSeqM9stc0NE5zUodE-yeaE/view?usp=sharing).
+
+- ⚡ Fun fact **My only wish is Barcelona win the Champions League again**.
  
  <br><br>
  
