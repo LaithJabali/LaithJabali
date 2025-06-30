@@ -5,19 +5,19 @@
   ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture>   About me
 
   
-- 🔭 I recently completed my training at Gaza Sky Geeks, where I honed my skills in ReactJS.
+- 🎓 I recently completed an intensive training program at Gaza Sky Geeks, where I focused on building high-quality web applications using ReactJS.
 
-- 🌱  I have a strong foundation in ReactJS and continue to expand my knowledge and expertise in this powerful JavaScript library.
+- 💡 I have a solid foundation in modern front-end technologies and continuously work on expanding my skills in JavaScript, React, and UI/UX best practices.
 
-- 💼 I am a graduate of Computer Engineering and currently seeking job opportunities as a Front-End developer.
+- 💼 I’m currently open to job opportunities as a Front-End Developer. I’m eager to join a dynamic team where I can contribute, learn, and grow.
 
-- 👨‍💻 All of my projects are available at [LaithJabali](https://github.com/LaithJabali).
+- 🛠️ You can explore all my projects here on: [LaithJabali](https://github.com/LaithJabali).
 
-- 📫 How to reach me **laithkingjabali@gamil.com**.
+- 📫 Feel free to contact me via email: **laithkingjabali@gamil.com**.
 
-- 📄 Find out about my experiences in my [Portfolio](https://laithjabali.github.io/portfolio/) and [CV](https://drive.google.com/file/d/1I4Hhee-lCzSeqM9stc0NE5zUodE-yeaE/view?usp=sharing).
+- 📄 Learn more about my work and experience in my [Portfolio](https://laithjabali.github.io/portfolio/) and [CV](https://drive.google.com/file/d/1I4Hhee-lCzSeqM9stc0NE5zUodE-yeaE/view?usp=sharing).
 
-- ⚡ Fun fact **My only wish is Barcelona win the Champions League again**.
+- ⚡ Fun Fact: I write code by day and **dream of Barcelona winning the Champions League by night!**
  
  <br><br>
  
