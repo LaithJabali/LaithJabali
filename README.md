@@ -15,7 +15,7 @@
 
 - 📫 Feel free to contact me via email: **laithkingjabali@gamil.com**.
 
-- 📄 Learn more about my work and experience in my [Portfolio](https://laithjabali.github.io/portfolio/) and [CV](https://drive.google.com/file/d/1TDM3RVqiPXzb3VUeRverlyUwST_zVFiu/view?usp=sharing).
+- 📄 Learn more about my work and experience in my [Portfolio](https://laithjabali.github.io/portfolio/) and [CV](https://drive.google.com/file/d/1O2BHYAne2VXoumXbzYiFKSN3RHH6mkHM/view?usp=sharing).
 
 - ⚡ Fun Fact: I write code by day and **dream of Barcelona winning the Champions League by night!**
  
